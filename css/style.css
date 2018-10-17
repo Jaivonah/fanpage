@@ -17,3 +17,10 @@ a {
     width: 30px;
     margin: 15px;
 }
+.header{ 
+    display:flex;
+}
+
+.thumbnail {
+    
+}
