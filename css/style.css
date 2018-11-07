@@ -4,24 +4,31 @@ html {
 
 body {
     height: 100%;
-    
+    background-color: purple;
 }
+    
+
 a {
     text-decoration: none;
 }
 
-.main {
-    height: 100%;
-    background-image: url("https://media2.fdncms.com/stranger/imager/u/original/25728579/pnb.jpg"
+.main{ 
+    background-image:url("https://media2.fdncms.com/stranger/imager/u/original/25728579/pnb.jpg");
+    height:399px;
+    width:100%;
 }
+
+
 .social-image{
     width: 30px;
     margin: 15px;
 }
 .header{ 
     display:flex;
+    color:red;
+    font-size:30px;
+    justify-content: center;
 }
 
-.thumbnail {
-    
+.navbar{ size: 15px
 }
